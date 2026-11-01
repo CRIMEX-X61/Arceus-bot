@@ -1,0 +1,22 @@
+{
+  "botName": "ARCEUS XD",
+  "prefix": ".",
+  "owners": ["918420027377"],
+  "ownerName": "Test Bot",
+  "pairingNumber": "918420027377",
+  "pairWebsite": "https://arceus-xd-pair.onrender.com",
+  "public": true,
+  "alwaysOnline": false,
+  "autoRead": false,
+  "autoReact": false,
+  "autoTyping": false,
+  "autoSaveStatus": false,
+  "antiDelete": false,
+  "antiDeleteStatus": false,
+  "menuImage": "https://files.brevo.host/f/ttp9ldus8g.jpg",
+  "repo": "https://github.com/your-username/ARCEUS-XD",
+  "timezone": "UTC",
+  "cooldownMs": 2500,
+  "packName": "ARCEUS XD",
+  "packAuthor": "ARCEUS"
+}
